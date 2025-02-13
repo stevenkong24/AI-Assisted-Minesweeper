@@ -38,7 +38,7 @@ The model performed fairly well in detecting mines. Example runs on a few differ
 
 ## Contributions
 
-Model developed by Moez B. and Steven K.
+Model developed by Steven K. and Moez B.
 
 ## License
 
